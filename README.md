@@ -16,7 +16,7 @@ https://code.earthengine.google.com/?accept_repo=users/francofrolla/Explorador_S
 
 Al seleccionar el poligono y oprimir "Run" el programa buscara las imagenes de Sentinel 2 que abarquen el area del poligno para el periodo de tiempo ingresado. Si se selecciona la opcions "Landsat 8" la busqueda cambia a Landsat 8.
 
-5- Para ambos satelites se ofrecen para visualizacion y descarga distintas combinaciones de bandas. Color Natural, Falso Infrarrojo y Agricultura.
+5- Para ambos satelites se ofrecen para visualizacion y descarga distintas combinaciones de bandas. Color Natural, Falso Infrarrojo y Agricultura. El boton NDVI genera el indice para el poligno indicado, no se calcula NDVI para toda la escena. 
 
 6-Descarga. Existen dos tipos de descarga "Exportar vista previa" la cual descarga la combinacion de bandas que se este visualizando en la extension de la vista actual. "Exportar recorte" descarga el NDVI para el lote seleccionado en el punto 4.
 
