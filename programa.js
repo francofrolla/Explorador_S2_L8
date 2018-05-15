@@ -1,7 +1,7 @@
 // Una interfaz grafica para visualizar imagenes de Sentinel 2 y Landsat 8, realizar combinaciones
 // generar ndvi en sitios especificados y exportar los resultados
-   
-
+//ATENCION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+// El sitio seleccionado debe ser dibujado con las herramientas de dibujo a mano, llamandolo poligono_lote
 var app = {};
 
 /** Creates the UI panels. */
