@@ -18,3 +18,9 @@ Al seleccionar el poligono y oprimir "Run" el programa buscara las imagenes de S
 
 5- Para ambos satelites se ofrecen para visualizacion y descarga distintas combinaciones de bandas. Color Natural, Falso Infrarrojo y Agricultura.
 
+6-Descarga. Existen dos tipos de descarga "Exportar vista previa" la cual descarga la combinacion de bandas que se este visualizando en la extension de la vista actual. "Exportar recorte" descarga el NDVI para el lote seleccionado en el punto 4.
+
+Al clickear en cualquiera de las descargas se habilita una nueva tara en la solapa "Tasks" (extremo superior izquierdo de la pantalla), donde se indica la banda o ndvi (Sentinel 2 o Landsat 8) a descargar. Clik en "Run" para inicar la descarga.
+
+La descarga solo se pueden almacenear en Google Drive, pudiendo de este descargarlo a donde querramos. 
+
