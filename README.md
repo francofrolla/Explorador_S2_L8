@@ -2,6 +2,9 @@
 Una interfaz grafica (GUI) para la búsqueda, procesamiento y recorte de imágenes Sentinel 2 y Landsat 8 en la nube mediante Google Earth Engine. Especialmente diseñado para la rapida busqueda y elaboracion de NDVI en lotes agricolas.
 email contacto: frolla.franco@inta.gob.ar
 
+![explorador_s2_l8](https://user-images.githubusercontent.com/20848690/40078697-bd12f6e6-585b-11e8-8430-0c7aa05250ae.jpg)
+
+
 Requisitos
 1- Tener cuenta de gmail y acceso a Google Earth Engine (GEE). GEE es libre para su uso en investigacion como asi para evaluacion de distintos programas como el presente. 
 
