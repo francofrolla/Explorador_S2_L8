@@ -1,5 +1,6 @@
 // Una interfaz grafica para visualizar imagenes de Sentinel 2 y Landsat 8, realizar combinaciones
 // generar ndvi en sitios especificados y exportar los resultados
+//Autor: Franco Daniel Frolla; frolla.franco@inta.gob.ar, Sector de Manejo y Conservacion de Suelos, EEA Bordenave.
 //ATENCION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
 // El sitio seleccionado debe ser dibujado con las herramientas Geometria, llamandolo poligono_lote
 var app = {};
