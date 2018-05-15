@@ -7,7 +7,7 @@ email contacto: frolla.franco@inta.gob.ar
 
 ## Requisitos
 
-1- Tener cuenta de gmail y acceso a Google Earth Engine (GEE). GEE es libre para su uso en investigacion como asi para evaluacion de distintos programas como el presente. 
+1- Tener cuenta de gmail y acceso a Google Earth Engine (GEE). GEE es libre para su uso en investigacion como asi para evaluacion de distintos programas para un posterior uso comercial. 
 
 https://signup.earthengine.google.com/
 
