@@ -6,10 +6,6 @@
 //#################################################################################################
 var app = {};
 
-
-var inta_Bordenave = ee.Geometry.Point([-63.092594146728516, -37.7701719650786]);
-Map.centerObject(inta_Bordenave);
-
 /** Creates the UI panels. */
 var que_satelite = "false";
 app.createPanels = function() {
